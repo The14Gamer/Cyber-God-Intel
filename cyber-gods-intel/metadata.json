@@ -1,0 +1,6 @@
+
+{
+  "name": "Cyber-Gods Explorer",
+  "description": "An advanced AI-powered cybersecurity research tool designed to unravel complex terminologies, 'God-mode' protocols, and niche acronyms like GODS using Gemini 3 Pro with Google Search grounding.",
+  "requestFramePermissions": []
+}
